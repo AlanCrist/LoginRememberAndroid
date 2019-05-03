@@ -1,0 +1,158 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/alan-cristian/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/alan-cristian/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/alan-cristian/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/alan-cristian/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml:2:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/15014f991f0f62686b081e19eb82cd0e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/b80c5a8ecd8354b858f4acf4e656d7d4/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/d7cf864d408d4536e975aab712eaac32/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/85cadde9b4b13912896434ee48c25afb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/fc13f4c07e64f450ad9a42cc74e0d09b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/3fe2bb8851212d5b6862684def057902/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/3c75b1f4ad90064a514ace28d8a8bee5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/a29127bf2fb0534e8ff543c7df1cb638/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/363c854dcce37a59514a2aff7e3356be/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/d1bda2777675f1c8b6a0582255cc8abb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/2ab171e982684cdf51a02cce139d8e1c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/4833e6d76c944056316de0e1f6d3c2d0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/6be1bb4dd1252278153ec493e66384e6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/ba27cfc1cf5b04207bb03897c75567c3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/364001f209ca9767350d1c63411c3a9c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/336e05f05d16ab6e3db63c909dbf58d9/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/f824a3a02cecf4526097bb9396aa4beb/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/89d918c29d307606e524105687c07058/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/1e400673d6a1ccb2df070d355e16454c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/bec78faff8362eeb33e2f2a242998df7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/3a5394395fc78ebd1bebd80899dafca8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/5aa908b3915047a044ed7f96ee46a48c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/4860010c8a54869cf1d8337281f987aa/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/6668f688668e9ffb02c515cd54039b80/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/1c7bc148f4c3ea72f060d9b0e513ca8e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/3f69cced2e1761a1ac018da38553624c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/ed280fbc3f7d6ad9919e95b1f428dc0f/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/alan-cristian/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/alan-cristian/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/alan-cristian/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from /home/alan-cristian/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /home/alan-cristian/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml
+		INJECTED from /home/alan-cristian/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/alan-cristian/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml
+		ADDED from /home/alan-cristian/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /home/alan-cristian/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/alan-cristian/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml
+		ADDED from /home/alan-cristian/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /home/alan-cristian/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/alan-cristian/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/alan-cristian/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml:5:5-20:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/b80c5a8ecd8354b858f4acf4e656d7d4/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/b80c5a8ecd8354b858f4acf4e656d7d4/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/336e05f05d16ab6e3db63c909dbf58d9/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/336e05f05d16ab6e3db63c909dbf58d9/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/f824a3a02cecf4526097bb9396aa4beb/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/f824a3a02cecf4526097bb9396aa4beb/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/336e05f05d16ab6e3db63c909dbf58d9/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/alan-cristian/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/alan-cristian/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/alan-cristian/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/alan-cristian/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/alan-cristian/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/alan-cristian/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.alancrist.login.AdminActivity
+ADDED from /home/alan-cristian/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml:12:9-60
+	android:name
+		ADDED from /home/alan-cristian/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml:12:19-48
+activity#com.alancrist.login.MainActivity
+ADDED from /home/alan-cristian/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from /home/alan-cristian/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml:13:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/alan-cristian/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from /home/alan-cristian/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /home/alan-cristian/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/alan-cristian/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from /home/alan-cristian/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from /home/alan-cristian/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/alan-cristian/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml
+INJECTED from /home/alan-cristian/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/15014f991f0f62686b081e19eb82cd0e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/15014f991f0f62686b081e19eb82cd0e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/b80c5a8ecd8354b858f4acf4e656d7d4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/b80c5a8ecd8354b858f4acf4e656d7d4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/d7cf864d408d4536e975aab712eaac32/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/d7cf864d408d4536e975aab712eaac32/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/85cadde9b4b13912896434ee48c25afb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/85cadde9b4b13912896434ee48c25afb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/fc13f4c07e64f450ad9a42cc74e0d09b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/fc13f4c07e64f450ad9a42cc74e0d09b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/3fe2bb8851212d5b6862684def057902/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/3fe2bb8851212d5b6862684def057902/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/3c75b1f4ad90064a514ace28d8a8bee5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/3c75b1f4ad90064a514ace28d8a8bee5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/a29127bf2fb0534e8ff543c7df1cb638/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/a29127bf2fb0534e8ff543c7df1cb638/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/363c854dcce37a59514a2aff7e3356be/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/363c854dcce37a59514a2aff7e3356be/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/d1bda2777675f1c8b6a0582255cc8abb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/d1bda2777675f1c8b6a0582255cc8abb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/2ab171e982684cdf51a02cce139d8e1c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/2ab171e982684cdf51a02cce139d8e1c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/4833e6d76c944056316de0e1f6d3c2d0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/4833e6d76c944056316de0e1f6d3c2d0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/6be1bb4dd1252278153ec493e66384e6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/6be1bb4dd1252278153ec493e66384e6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/ba27cfc1cf5b04207bb03897c75567c3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/ba27cfc1cf5b04207bb03897c75567c3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/364001f209ca9767350d1c63411c3a9c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/364001f209ca9767350d1c63411c3a9c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/336e05f05d16ab6e3db63c909dbf58d9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/336e05f05d16ab6e3db63c909dbf58d9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/f824a3a02cecf4526097bb9396aa4beb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/f824a3a02cecf4526097bb9396aa4beb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/89d918c29d307606e524105687c07058/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/89d918c29d307606e524105687c07058/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/1e400673d6a1ccb2df070d355e16454c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/1e400673d6a1ccb2df070d355e16454c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/bec78faff8362eeb33e2f2a242998df7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/bec78faff8362eeb33e2f2a242998df7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/3a5394395fc78ebd1bebd80899dafca8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/3a5394395fc78ebd1bebd80899dafca8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/5aa908b3915047a044ed7f96ee46a48c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/5aa908b3915047a044ed7f96ee46a48c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/4860010c8a54869cf1d8337281f987aa/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/4860010c8a54869cf1d8337281f987aa/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/6668f688668e9ffb02c515cd54039b80/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/6668f688668e9ffb02c515cd54039b80/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/1c7bc148f4c3ea72f060d9b0e513ca8e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/1c7bc148f4c3ea72f060d9b0e513ca8e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/3f69cced2e1761a1ac018da38553624c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/3f69cced2e1761a1ac018da38553624c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/ed280fbc3f7d6ad9919e95b1f428dc0f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/alan-cristian/.gradle/caches/transforms-2/files-2.1/ed280fbc3f7d6ad9919e95b1f428dc0f/AndroidManifest.xml:20:5-44
+INJECTED from /home/alan-cristian/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml
+INJECTED from /home/alan-cristian/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/alan-cristian/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml
+		ADDED from /home/alan-cristian/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml
+		INJECTED from /home/alan-cristian/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/alan-cristian/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml
+		ADDED from /home/alan-cristian/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml
+		INJECTED from /home/alan-cristian/AndroidStudioProjects/Login/app/src/main/AndroidManifest.xml
